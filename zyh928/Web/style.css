@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h2{
+    color:rgb(0, 0, 0);
+}
+h1{
+    color:rgb(0, 0, 0);
+}
+h6{
+    color:rgb(57, 61, 61)
+}
+
+header, main, section{
+background-color: rgb(156, 245, 245);
+border: 5px #45b8ed solid;
+padding: 30px;
+margin: 10px;
+}
+a{
+   color:rgb(96, 116, 134)
+}
+section{
+    background-color: rgb(238, 225, 224);
+    border: 5px #f33131 dashed;
+    padding: 30px;
+    margin: 10px;}
